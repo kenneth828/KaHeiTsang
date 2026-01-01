@@ -1,9 +1,5 @@
 Hi there 👋 I'm KaHeiTsang
 
-## About me 
-I am a Software Engineering graduate with hands-on experience building scalable data pipelines, real-time analytics systems, and hardware-accelerated computer vision applications.
-
-
 ## I am currently working on:
 # SQL Data Warehouse Project 
 - Built a modern data warehouse using SQL Server and Medallion Architecture (Bronze, Silver, Gold layers) to consolidate sales data from multiple source systems (ERP and CRM).
@@ -26,4 +22,6 @@ Key Achievements:
 Python • OpenCV • TensorFlow Lite • PyTorch • Docker • GStreamer • Coral TPU • Hailo-8 • NPU
 
 [VIEW PROJECT](https://github.com/kenneth828/Data-Pipeline-Benchmarking-Framework-for-Edge-Video-Analytics-using-yolov5s)
+
+
 
