@@ -1,4 +1,4 @@
-# Hi there 👋 I'm KaHeiTsang
+# Hi there 👋 I'm Ka Hei Tsang
 
 
 ## Projects:  
