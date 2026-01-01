@@ -1,6 +1,8 @@
-Hi there 👋 I'm KaHeiTsang
+# Hi there 👋 I'm KaHeiTsang
 
-## I am currently working on:
+
+## Projects:  
+
 # SQL Data Warehouse Project 
 - Built a modern data warehouse using SQL Server and Medallion Architecture (Bronze, Silver, Gold layers) to consolidate sales data from multiple source systems (ERP and CRM).
 - The project features end-to-end ETL pipelines that extract data from CSV files, perform data cleansing and quality checks in the Silver layer, and transform it into a star schema in the Gold layer optimized for analytics.
@@ -8,7 +10,6 @@ Hi there 👋 I'm KaHeiTsang
 
 [VIEW PROJECT](https://github.com/kenneth828/sql-data_warehouse_project)
 
-## Projects:
 # Real-Time Video Analytics Platform & Performance Benchmarking Framework
 -Built during my Software & Data Engineering internship at Anders Electronics (Sep 2023 - Sep 2024), this platform benchmarks YOLOv5 object detection across CPU, NPU, Coral Edge TPU, and Hailo-8 accelerators.
 
