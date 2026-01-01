@@ -13,7 +13,7 @@ I am a Software Engineering graduate with hands-on experience building scalable 
 [VIEW PROJECT](https://github.com/kenneth828/sql-data_warehouse_project)
 
 ## Projects:
-# Data Pipeline Benchmarking Framework for Edge Video Analytics using yolov5s
+# Real-Time Video Analytics Platform & Performance Benchmarking Framework
 -Built during my Software & Data Engineering internship at Anders Electronics (Sep 2023 - Sep 2024), this platform benchmarks YOLOv5 object detection across CPU, NPU, Coral Edge TPU, and Hailo-8 accelerators.
 
 Key Achievements:
