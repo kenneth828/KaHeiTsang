@@ -1,4 +1,4 @@
-Hi there 👋 I'm KaheiTsang
+Hi there 👋 I'm KaHeiTsang
 
 ## About me 
 I am a Software Engineering graduate with hands-on experience building scalable data pipelines, real-time analytics systems, and hardware-accelerated computer vision applications.
@@ -18,9 +18,9 @@ Built during my Software & Data Engineering internship at Anders Electronics (Se
 
 Key Achievements
 
-🚀 10× throughput improvement using hardware acceleration
-⚡ Sustained >60 FPS at <5W on edge devices
-📊 14+ platforms tested: ARM/x86, iMX8/iMX93, Fitlet, Coral Dev Board
+-🚀 10× throughput improvement using hardware acceleration
+-⚡ Sustained >60 FPS at <5W on edge devices
+-📊 14+ platforms tested: ARM/x86, iMX8/iMX93, Fitlet, Coral Dev Board
 
 [VIEW PROJECT](https://github.com/kenneth828/Data-Pipeline-Benchmarking-Framework-for-Edge-Video-Analytics-using-yolov5s)
 
