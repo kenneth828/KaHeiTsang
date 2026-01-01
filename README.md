@@ -22,7 +22,13 @@ Key Achievements:
 - Tech Stack:
 Python • OpenCV • TensorFlow Lite • PyTorch • Docker • GStreamer • Coral TPU • Hailo-8 • NPU
 
-[VIEW PROJECT](https://github.com/kenneth828/Data-Pipeline-Benchmarking-Framework-for-Edge-Video-Analytics-using-yolov5s)
+[VIEW PROJECT](https://github.com/kenneth828/Data-Pipeline-Benchmarking-Framework-for-Edge-Video-Analytics-using-yolov5s
+
+### Fake Political News Detection Using BERT
+Developed an AI-powered system using RoBERTa and NLP techniques to classify political news with 88.45% accuracy. Leveraged Named Entity Recognition and custom political jargon features to identify misinformation.
+
+[VIEW PROJECT](https://github.com/kenneth828/Fake-Political-News-Detection-Using-BERT/tree/main)
+
 
 
 
