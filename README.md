@@ -29,7 +29,7 @@ Developed an AI-powered system using RoBERTa and NLP techniques to classify poli
 
 [VIEW PROJECT](https://github.com/kenneth828/Fake-Political-News-Detection-Using-BERT/tree/main)
 
-###Advanced Object Detection for Autonomous Driving 
+### Advanced Object Detection for Autonomous Driving 
 
 - Implemented and compared state-of-the-art object detection models (YOLOv5 and Faster R-CNN) on the ROAD dataset for autonomous vehicle awareness.
 - Trained YOLOv5s achieving 54.1% mAP@0.5 and Faster R-CNN with ResNet-50 backbone achieving 56% mAP@0.5 across 11 classes including pedestrians, vehicles, and traffic lights.
