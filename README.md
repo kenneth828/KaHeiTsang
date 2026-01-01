@@ -1,4 +1,4 @@
-                                                                        # Hi there 👋 I'm KaHeiTsang
+Hi there 👋 I'm KaHeiTsang
 
 ## About me 
 I am a Software Engineering graduate with hands-on experience building scalable data pipelines, real-time analytics systems, and hardware-accelerated computer vision applications.
