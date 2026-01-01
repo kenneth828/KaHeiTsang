@@ -22,7 +22,7 @@ Key Achievements:
 - ⚡ Sustained >60 FPS at <5W on edge devices
 - 📊 14+ platforms tested: ARM/x86, iMX8/iMX93, Fitlet, Coral Dev Board
 
-- Tech Stack
+- Tech Stack:
 Python • OpenCV • TensorFlow Lite • PyTorch • Docker • GStreamer • Coral TPU • Hailo-8 • NPU
 
 [VIEW PROJECT](https://github.com/kenneth828/Data-Pipeline-Benchmarking-Framework-for-Edge-Video-Analytics-using-yolov5s)
